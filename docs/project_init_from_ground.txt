@@ -1,0 +1,7 @@
+new deutsch
+ > Would you like to add Angular routing? Yes
+ > Which stylesheet format would you like to use? CSS
+
+ng add @angular/fire
+
+
